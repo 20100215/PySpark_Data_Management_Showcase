@@ -4,7 +4,7 @@
 For starters:
 
  1. [Read here](https://sparkbyexamples.com/pyspark-tutorial/) on why PySpark is currently among the most essential tools used by data engineers in handling big data through its distributed computing model as a replacement of traditional computing.
- 2. [Install PySpark here](https://spark.apache.org/docs/latest/api/python/getting_started/install.html) OR [clone this repository by jplane](https://github.com/jplane/pyspark-devcontainer?tab=readme-ov-file) to obtain a VS Code devcontainer setup for local PySpark development (1-node cluster) environment. Alternatively, you may refer to the DataCamp tutorial [here](https://www.datacamp.com/tutorial/installation-of-pyspark).
+ 2. [Install PySpark here](https://spark.apache.org/docs/latest/api/python/getting_started/install.html) OR refer to the DataCamp tutorial [here](https://www.datacamp.com/tutorial/installation-of-pyspark). ALternatively, you may [clone this repository by jplane](https://github.com/jplane/pyspark-devcontainer?tab=readme-ov-file) to obtain a VS Code devcontainer setup for local PySpark development (1-node cluster) environment.
 
 **Skills: Data Engineering, Data Analytics**
 
