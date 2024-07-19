@@ -1,5 +1,8 @@
-# PySpark_Data_Management_Showcase
- A compilation of big data cleaning and transformation projects performed using PySpark for preparation towards analytics consumption covering the following domains of analytics: Sports, e-commerce, and object detection.
+# PySpark Projects Showcase
+
+![image](https://github.com/user-attachments/assets/fa337c03-9cac-4f73-b19b-b6b65e53a81d)
+
+ A compilation of big data cleaning and transformation projects performed using PySpark for preparation towards analytics consumption covering the following domains of analytics: Sports, e-commerce, and object detection; demonstrating essential data engineering skills such as data cleaning, data transformation, feature engineering, in preparation for insights reporting and model building using the cleansed data.
 
 For starters:
 
@@ -14,7 +17,8 @@ Projects:
 
  1. Cleaning the Stanford Dogs Annotation dataset (Posting soon)
  2. E-commerce sales data cleaning and analysis (Posting soon)
- 3. Bundesliga (Germany Football League) analysis (Posting soon)
- 4. Netflix movie cleaning and analysis (Posting soon)
+ 3. Feature Engineering and Price Prediction of the 2017 St Paul MN Real Estate Data (Posting soon)
+ 4. Bundesliga (Germany Football League) analysis (Posting soon)
+ 5. Netflix movie cleaning and analysis (Posting soon)
 
-Last updated July 12, 2024
+Last updated July 19, 2024
