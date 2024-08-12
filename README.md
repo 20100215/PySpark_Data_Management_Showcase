@@ -16,9 +16,10 @@ For starters:
 Projects:
 
  1. Cleaning the Stanford Dogs Annotation dataset (Posting soon)
- 2. E-commerce sales data cleaning and analysis (Posting soon)
- 3. Feature Engineering and Price Prediction of the 2017 St Paul MN Real Estate Data (Posting soon)
- 4. Bundesliga (Germany Football League) analysis (Posting soon)
- 5. Netflix movie cleaning and analysis (Posting soon)
+ 2. Processing and analyzing Earthquake data (Posting soon)
+ 3. E-commerce sales data cleaning and analysis (Posting soon)
+ 4. Feature Engineering and Price Prediction of the 2017 St Paul MN Real Estate Data (Posting soon)
+ 5. Bundesliga (Germany Football League) analysis (Posting soon)
+ 6. Netflix movie cleaning and analysis (Posting soon)
 
-Last updated July 19, 2024
+Last updated August 12, 2024
